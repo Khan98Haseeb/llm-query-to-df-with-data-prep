@@ -398,7 +398,7 @@
    "outputs": [],
    "source": [
     "# Set your Google API key\n",
-    "os.environ[\"GOOGLE_API_KEY\"] = \"AIzaSyAfyGdKVBkJhkoZVee32CcSQ864Id1B4_g\""
+    "os.environ[\"GOOGLE_API_KEY\"] = \"Secret key here\""
    ]
   },
   {
